@@ -1,10 +1,10 @@
 [package]
 name = "de_memory"
-version = "0.1.281"
+version = "0.1.282"
 edition = "2024"
 
 [dependencies]
-env_logger = "0.11.11"
+env_logger = "0.11.12"
 glob = "0.3.4"
 whoami = "1.6.1"
 windows = { version = "0.62.2", features = [
